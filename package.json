@@ -1,7 +1,7 @@
 {
   "name": "pattern-heart",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "Illustrated Hearts, Free and Ready.",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
