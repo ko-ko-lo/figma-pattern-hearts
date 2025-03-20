@@ -18,3 +18,7 @@ This project was created for fun and to practice Figma Plugin development.
 - JavaScript / TypeScript
 - HTML / CSS
 - SVG Graphics
+
+---
+
+![cover1](https://github.com/user-attachments/assets/b0f9bff4-27e6-4bd2-9cf7-4f8c767ff5f9)
